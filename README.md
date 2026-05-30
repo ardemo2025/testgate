@@ -44,15 +44,9 @@ X @andyrobot
 ### 🚀 How to Begin Your Journey (Star Gate)
 
 1. **Star this repository** (top right)
-2. Go to the **[Star Gate Portal](star-gate-portal)** (coming in first release)
+2. Go to the **[Star Gate Portal](star-gate-portal)** (coming in first June 2026 release)
 3. Let the **RoboClaw Ascension Agent** guide you through the experience
 
-**Featured by KUKA USA on kuka.com**
 
----
-
-### The Neolab Access Ladder
-
-(Add the full table here once the repo is live)
 
 **The open source of this repo is the experience.**  
