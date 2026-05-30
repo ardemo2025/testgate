@@ -22,7 +22,7 @@ These steps extract the pedigree of GitHub users I wish to allow into my Neolab.
 **My robots. My rules.**
 
 If you reach the lab, then you can be bored by my 30-minute lectures once a week.  
-I will brag about the gigs I have done (Lady Gaga, Drake, Royal Caribbean, and more), and then tie it all into RoboClaw, hopefully.
+I will talk about the gigs I have done (Lady Gaga, Drake, Royal Caribbean, and more), and then tie it all into RoboClaw.
 
 We will step through more and more complicated scenarios in live streams.  
 If You talk to me, I will talk to You.
